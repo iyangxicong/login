@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login">请输入登录邮箱</string>
+    <string name="passpord">请输入登录密码</string>
+</resources>
